@@ -13,19 +13,19 @@ function App() {
               <th colSpan="2">
                 <div>
                   Метали&nbsp;
-                  <GiMetalBar className={css.icon} size="12" />
+                  <GiMetalBar className={css.icon} size="8" />
                 </div>
               </th>
               <th colSpan="2">
                 <div>
                   Риба&nbsp;
-                  <FaFish className={css.icon} size="12" />
+                  <FaFish className={css.icon} size="8" />
                 </div>
               </th>
               <th colSpan="2">
                 <div>
                   Пляжні знахідки&nbsp;
-                  <TbBeachOff className={css.icon} size="12" />
+                  <TbBeachOff className={css.icon} size="8" />
                 </div>
               </th>
             </tr>
